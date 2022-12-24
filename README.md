@@ -1,2 +1,2 @@
-# N_Queens
-N_queens problem using Python
+# n_queens
+n_queens problem using Python
